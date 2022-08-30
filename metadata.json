@@ -1,6 +1,6 @@
 {
   "name": "tca_puppet_nexus",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "source": "https://github.com/Trust-Company-of-America/tca_puppet_nexus",
   "author": "Tom McLaughlin <tmclaughlin@hubspot.com>",
   "license": "MIT",
