@@ -1,11 +1,11 @@
 {
-  "name": "hubspot-nexus",
-  "version": "1.7.3",
-  "source": "http://github.com/hubspotdevops/puppet-nexus",
+  "name": "tca_puppet_nexus",
+  "version": "1.7.4",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet_nexus",
   "author": "Tom McLaughlin <tmclaughlin@hubspot.com>",
   "license": "MIT",
   "summary": "Puppet module for Sonatype Nexus",
-  "project_page": "http://github.com/hubspotdevops/puppet-nexus",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_nexus",
   "operatingsystem_support": [
     {
       "operatingsystem": "Centos",
@@ -38,11 +38,11 @@
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">=0.0.0 <5.0.0"
+      "version_requirement": ">=0.0.0"
     },
     {
       "name": "maestrodev/wget",
-      "version_requirement": ">=1.0.0 <2.0.0"
+      "version_requirement": ">=1.0.0"
     }
   ]
 }
