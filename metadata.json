@@ -1,11 +1,11 @@
 {
-  "name": "tca_puppet_nexus",
-  "version": "1.7.5",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_nexus",
+  "name": "tca_puppet-nexus",
+  "version": "1.7.6",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-nexus",
   "author": "Tom McLaughlin <tmclaughlin@hubspot.com>",
   "license": "MIT",
   "summary": "Puppet module for Sonatype Nexus",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_nexus",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-nexus",
   "operatingsystem_support": [
     {
       "operatingsystem": "Centos",
